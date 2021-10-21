@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "mobile-detect": "^1.4.5",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
